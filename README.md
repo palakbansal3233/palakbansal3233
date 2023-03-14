@@ -7,8 +7,8 @@ Instituting new technologies and building easy to use and user-friendly websites
 designers and Back End Developers to ensure coherence between all parties. Also tested some feature prototypes for bugs and user experience.
 
 
-- 🔭 I’m currently working as a **Frontend Developer @ Drip Capital**
-- 🌱 I’m currently learning **React Native**
+- 🔭 I’m currently working as a **Frontend Developer @ Dezerv**
+- 🌱 I’m currently learning **A Lot of Stuff**
 - 💬 Ask me about **Frontend Development**
 - 😄 Pronouns: **She | Her**
 
